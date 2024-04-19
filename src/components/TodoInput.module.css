@@ -1,0 +1,40 @@
+.todoForm {
+  width: 100%;
+  max-width: 51vw;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 0.5rem;
+  height: 3.375rem;
+  position: relative;
+  top: calc(-3.375rem / 2);
+  input {
+    flex: 1;
+    height: inherit;
+    border: 0;
+    border-radius: 8px;
+    padding: 1rem;
+    background-color: var(--color-gray-500);
+    color: var(--color-gray-300);
+  }
+  button {
+    width: 5.625rem;
+    height: inherit;
+    padding: 0.0625rem 0;
+    border: 0;
+    border-radius: 8px;
+    cursor: pointer;
+    background-color: var(--color-blue-dark);
+    color: var(--color-gray-100);
+    transition: background 0.1s;
+    font-size: 0.875rem;
+    font-weight: bold;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    gap: 0.25rem;
+  }
+}
