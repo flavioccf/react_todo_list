@@ -1,0 +1,17 @@
+.todoEmptyWrapper {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  align-items: center;
+  justify-content: center;
+  border-radius: 10px;
+  padding: 4rem 1.25rem;
+  border-top: 1px solid var(--color-gray-400);
+  color: var(--color-gray-400);
+  p {
+    color: var(--color-gray-300);
+    font-size: 1rem;
+    text-align: center;
+    line-height: 140%;
+  }
+}

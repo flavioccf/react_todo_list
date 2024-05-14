@@ -33,3 +33,9 @@ button {
   line-height: 140%;
   font-size: 1rem;
 }
+
+main {
+  width: 100%;
+  max-width: 51vw;
+  margin: 0 auto;
+}

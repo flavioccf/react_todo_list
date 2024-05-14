@@ -1,6 +1,5 @@
 .todoForm {
   width: 100%;
-  max-width: 51vw;
   margin: 0 auto;
   display: flex;
   flex-direction: row;
@@ -17,7 +16,7 @@
     border-radius: 8px;
     padding: 1rem;
     background-color: var(--color-gray-500);
-    color: var(--color-gray-300);
+    color: var(--color-gray-100);
   }
   button {
     width: 5.625rem;
@@ -28,7 +27,7 @@
     cursor: pointer;
     background-color: var(--color-blue-dark);
     color: var(--color-gray-100);
-    transition: background 0.1s;
+    transition: 0.2s;
     font-size: 0.875rem;
     font-weight: bold;
     display: flex;
@@ -36,5 +35,8 @@
     justify-content: center;
     align-items: center;
     gap: 0.25rem;
+  }
+  button:hover {
+    background-color: var(--color-blue);
   }
 }
