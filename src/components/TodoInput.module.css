@@ -12,7 +12,7 @@
   input {
     flex: 1;
     height: inherit;
-    border: 0;
+    border: 1px solid var(--color-gray-700);
     border-radius: 8px;
     padding: 1rem;
     background-color: var(--color-gray-500);
@@ -20,7 +20,7 @@
   }
   button {
     width: 5.625rem;
-    height: inherit;
+    height: calc(100% - 4px);
     padding: 0.0625rem 0;
     border: 0;
     border-radius: 8px;

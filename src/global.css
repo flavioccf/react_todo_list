@@ -39,3 +39,12 @@ main {
   max-width: 51vw;
   margin: 0 auto;
 }
+
+@media (max-width: 480px) {
+  html {
+    font-size: 90%;
+  }
+  main {
+    max-width: 90vw;
+  }
+}
