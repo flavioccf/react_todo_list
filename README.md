@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="20%" src="./src/assets/logo.svg" />
+  <img width="20%" src="./src/assets/todo_logo.svg" />
 </p>
 
 <p align="center">
@@ -7,10 +7,10 @@
 </p>
 
 <p align="center">
-  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size//flavioccf/react_ignite_challenge_01">
-  <img alt="GitHub" src="https://img.shields.io/github/license//flavioccf/react_ignite_challenge_01">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count//flavioccf/react_ignite_challenge_01">
-  <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars//flavioccf/react_ignite_challenge_01?style=social">
+  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/flavioccf/react_ignite_challenge_01">
+  <img alt="GitHub" src="https://img.shields.io/github/license/flavioccf/react_ignite_challenge_01">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/flavioccf/react_ignite_challenge_01">
+  <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/flavioccf/react_ignite_challenge_01?style=social">
 </p>
 
 <p align="center">
